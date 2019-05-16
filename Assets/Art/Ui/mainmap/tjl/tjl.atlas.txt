@@ -1,0 +1,83 @@
+
+tjl.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guan1
+  rotate: false
+  xy: 390, 96
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1
+images/huo
+  rotate: false
+  xy: 260, 117
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/qian1
+  rotate: false
+  xy: 2, 20
+  size: 129, 63
+  orig: 129, 63
+  offset: 0, 0
+  index: -1
+images/tjl
+  rotate: false
+  xy: 2, 85
+  size: 256, 160
+  orig: 256, 160
+  offset: 0, 0
+  index: -1
+images/tong
+  rotate: false
+  xy: 390, 147
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+images/tougai
+  rotate: false
+  xy: 255, 18
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+images/y1
+  rotate: true
+  xy: 212, 17
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+images/y2
+  rotate: true
+  xy: 133, 25
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+images/y3
+  rotate: false
+  xy: 336, 2
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+images/y4
+  rotate: false
+  xy: 260, 68
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+images/zhuan1
+  rotate: false
+  xy: 396, 31
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1

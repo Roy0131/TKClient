@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+     <item ArtifactID="1" UnLockLevel="60" UnLockVIPLevel="0" UnLockResCost="25,200" MaxRank="4" Name="410001" Sort="1" ShowLevel="80" BackGroundRGB="26,130,31,80|0,183,31,128|0,224,0,60" BackGroundImg="panel_A1001ldj_01" SelectFx="fx_a_select_ldj" />
+     <item ArtifactID="2" UnLockLevel="60" UnLockVIPLevel="0" UnLockResCost="25,200" MaxRank="4" Name="410002" Sort="2" ShowLevel="80" BackGroundRGB="128,18,0,80|164,19,0,128|255,23,0,60" BackGroundImg="panel_A1007jlq_01" SelectFx="fx_a_select_jlq" />
+     <item ArtifactID="3" UnLockLevel="85" UnLockVIPLevel="0" UnLockResCost="25,400" MaxRank="4" Name="410003" Sort="4" ShowLevel="80" BackGroundRGB="0,84,154,80|47,122,255,128|0,98,255,60" BackGroundImg="panel_A1002lszc_01" SelectFx="fx_a_select_lszc" />
+     <item ArtifactID="4" UnLockLevel="70" UnLockVIPLevel="0" UnLockResCost="25,300" MaxRank="4" Name="410004" Sort="3" ShowLevel="80" BackGroundRGB="0,115,120,80|117,235,255,128|0,87,255,60" BackGroundImg="panel_A1005szj_01" SelectFx="fx_a_select_szj" />
+     <item ArtifactID="5" UnLockLevel="100" UnLockVIPLevel="0" UnLockResCost="25,500" MaxRank="4" Name="410005" Sort="5" ShowLevel="80" BackGroundRGB="90,0,130,80|172,83,255,128|233,0,255,60" BackGroundImg="panel_A1003ygdg_01" SelectFx="fx_a_select_ygdg" />
+     <item ArtifactID="6" UnLockLevel="120" UnLockVIPLevel="0" UnLockResCost="25,600" MaxRank="4" Name="410006" Sort="6" ShowLevel="80" BackGroundRGB="255,221,61,80|255,184,0,128|255,85,0,60" BackGroundImg="panel_A1009hjsy_01" SelectFx="fx_a_select_hjsy" />
+     <item ArtifactID="7" UnLockLevel="60" UnLockVIPLevel="5" UnLockResCost="25,600" MaxRank="4" Name="410007" Sort="8" ShowLevel="80" BackGroundRGB="209,120,0,80|255,100,25,128|255,0,0,60" BackGroundImg="panel_A1006wxst_01" SelectFx="fx_a_select_wxst" />
+     <item ArtifactID="8" UnLockLevel="60" UnLockVIPLevel="8" UnLockResCost="25,800" MaxRank="4" Name="410008" Sort="9" ShowLevel="80" BackGroundRGB="255,95,144,80|255,97,198,128|255,0,95,60" BackGroundImg="panel_A1010yhzq_01" SelectFx="fx_a_select_yhzq" />
+     <item ArtifactID="9" UnLockLevel="150" UnLockVIPLevel="0" UnLockResCost="25,800" MaxRank="4" Name="410009" Sort="7" ShowLevel="80" BackGroundRGB="45,0,51,80|77,21,76,128|72,0,84,60" BackGroundImg="panel_A1008xyj_01" SelectFx="fx_a_select_xyj" />
+     <item ArtifactID="10" UnLockLevel="60" UnLockVIPLevel="11" UnLockResCost="25,1000" MaxRank="4" Name="410010" Sort="10" ShowLevel="80" BackGroundRGB="251,251,130,80|255,250,131,128|255,209,0,60" BackGroundImg="panel_A1004pf_01" SelectFx="fx_a_select_pf" />
+</Config>

@@ -1,0 +1,146 @@
+
+A1007jlq.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/0_0000_221
+  rotate: false
+  xy: 821, 56
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+images/0_0001_226
+  rotate: false
+  xy: 2, 21
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+images/0_0002_225
+  rotate: true
+  xy: 890, 42
+  size: 24, 65
+  orig: 24, 65
+  offset: 0, 0
+  index: -1
+images/0_0003_224
+  rotate: false
+  xy: 154, 7
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+images/0_0004_222
+  rotate: false
+  xy: 2, 56
+  size: 109, 70
+  orig: 109, 70
+  offset: 0, 0
+  index: -1
+images/0_0005_223
+  rotate: false
+  xy: 69, 21
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+images/0_0006_220
+  rotate: false
+  xy: 232, 21
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+images/0_0007_219
+  rotate: true
+  xy: 890, 68
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+images/tx_1/33_0000_A1007jlq-animation_00003.png
+  rotate: true
+  xy: 357, 50
+  size: 76, 79
+  orig: 80, 80
+  offset: 4, 0
+  index: -1
+images/tx_1/33_0001_A1007jlq-animation_00004.png
+  rotate: true
+  xy: 438, 50
+  size: 76, 78
+  orig: 80, 80
+  offset: 4, 0
+  index: -1
+images/tx_1/33_0002_A1007jlq-animation_00005.png
+  rotate: false
+  xy: 113, 47
+  size: 80, 79
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/tx_1/33_0003_A1007jlq-animation_00006.png
+  rotate: true
+  xy: 599, 50
+  size: 76, 77
+  orig: 80, 80
+  offset: 3, 0
+  index: -1
+images/tx_1/33_0004_A1007jlq-animation_00007.png
+  rotate: true
+  xy: 518, 51
+  size: 75, 79
+  orig: 80, 80
+  offset: 5, 0
+  index: -1
+images/tx_1/33_0005_A1007jlq-animation_00008.png
+  rotate: false
+  xy: 195, 46
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/tx_1/33_0006_A1007jlq-animation_00009.png
+  rotate: false
+  xy: 277, 48
+  size: 78, 78
+  orig: 80, 80
+  offset: 2, 0
+  index: -1
+images/tx_1/33_0007_A1007jlq-animation_00010.png
+  rotate: false
+  xy: 678, 50
+  size: 73, 76
+  orig: 80, 80
+  offset: 4, 0
+  index: -1
+images/tx_1/33_0008_A1007jlq-animation_00011.png
+  rotate: false
+  xy: 753, 54
+  size: 66, 72
+  orig: 80, 80
+  offset: 8, 2
+  index: -1
+images/tx_1/33_0009_A1007jlq-animation_00012.png
+  rotate: false
+  xy: 967, 76
+  size: 45, 50
+  orig: 80, 80
+  offset: 18, 14
+  index: -1
+images/tx_1/33_0010_A1007jlq-animation_00013.png
+  rotate: false
+  xy: 112, 2
+  size: 40, 43
+  orig: 80, 80
+  offset: 20, 17
+  index: -1
+images/tx_1/33_0011_A1007jlq-animation_00014.png
+  rotate: true
+  xy: 192, 10
+  size: 34, 38
+  orig: 80, 80
+  offset: 23, 20
+  index: -1

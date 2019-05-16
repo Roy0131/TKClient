@@ -1,0 +1,41 @@
+
+shangdian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guan
+  rotate: false
+  xy: 2, 2
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 213, 117
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+images/paizi
+  rotate: false
+  xy: 2, 68
+  size: 209, 113
+  orig: 209, 113
+  offset: 0, 0
+  index: -1
+images/paizi2
+  rotate: true
+  xy: 375, 296
+  size: 157, 81
+  orig: 157, 81
+  offset: 0, 0
+  index: -1
+images/shangdian
+  rotate: false
+  xy: 2, 183
+  size: 371, 270
+  orig: 371, 270
+  offset: 0, 0
+  index: -1

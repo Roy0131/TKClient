@@ -1,0 +1,48 @@
+
+xzzs.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shugan
+  rotate: false
+  xy: 2, 37
+  size: 280, 217
+  orig: 280, 217
+  offset: 0, 0
+  index: -1
+images/y1
+  rotate: false
+  xy: 284, 179
+  size: 176, 75
+  orig: 176, 75
+  offset: 0, 0
+  index: -1
+images/y2
+  rotate: false
+  xy: 284, 109
+  size: 149, 68
+  orig: 150, 68
+  offset: 1, 0
+  index: -1
+images/y3
+  rotate: false
+  xy: 2, 2
+  size: 75, 33
+  orig: 75, 33
+  offset: 0, 0
+  index: -1
+images/y4
+  rotate: true
+  xy: 435, 86
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+images/y5
+  rotate: false
+  xy: 284, 46
+  size: 119, 61
+  orig: 119, 61
+  offset: 0, 0
+  index: -1

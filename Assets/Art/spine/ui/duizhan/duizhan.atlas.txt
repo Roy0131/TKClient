@@ -1,0 +1,41 @@
+
+duizhan.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/1
+  rotate: true
+  xy: 186, 70
+  size: 55, 60
+  orig: 92, 68
+  offset: 14, 4
+  index: -1
+images/TX/2
+  rotate: false
+  xy: 2, 71
+  size: 89, 54
+  orig: 92, 68
+  offset: 1, 6
+  index: -1
+images/TX/3
+  rotate: false
+  xy: 93, 75
+  size: 91, 50
+  orig: 92, 68
+  offset: 0, 9
+  index: -1
+images/TX/4
+  rotate: false
+  xy: 93, 30
+  size: 73, 43
+  orig: 92, 68
+  offset: 5, 13
+  index: -1
+images/jian
+  rotate: true
+  xy: 2, 2
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1

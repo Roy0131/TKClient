@@ -1,0 +1,83 @@
+
+tiankongchengshi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/d1
+  rotate: false
+  xy: 349, 28
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+images/d2
+  rotate: true
+  xy: 458, 129
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+images/d3
+  rotate: false
+  xy: 349, 76
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+images/d4
+  rotate: true
+  xy: 458, 186
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+images/d5
+  rotate: false
+  xy: 349, 128
+  size: 107, 124
+  orig: 107, 124
+  offset: 0, 0
+  index: -1
+images/dao
+  rotate: false
+  xy: 2, 2
+  size: 345, 250
+  orig: 345, 250
+  offset: 0, 0
+  index: -1
+images/n1
+  rotate: false
+  xy: 385, 10
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+images/n2
+  rotate: true
+  xy: 404, 9
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+images/ti
+  rotate: true
+  xy: 419, 61
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+images/xian
+  rotate: true
+  xy: 349, 3
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+images/ying
+  rotate: false
+  xy: 413, 26
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1

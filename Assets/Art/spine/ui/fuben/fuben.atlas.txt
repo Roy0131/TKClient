@@ -1,0 +1,41 @@
+
+fuben.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chacao
+  rotate: false
+  xy: 245, 68
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+images/fuben01
+  rotate: false
+  xy: 2, 12
+  size: 142, 99
+  orig: 142, 99
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 245, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/quan1
+  rotate: false
+  xy: 146, 14
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+images/quan2
+  rotate: false
+  xy: 342, 51
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1

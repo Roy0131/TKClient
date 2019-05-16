@@ -1,0 +1,118 @@
+
+limao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beibao
+  rotate: false
+  xy: 2, 149
+  size: 230, 358
+  orig: 230, 358
+  offset: 0, 0
+  index: -1
+images/cibang
+  rotate: true
+  xy: 2, 13
+  size: 134, 156
+  orig: 134, 156
+  offset: 0, 0
+  index: -1
+images/guanzi
+  rotate: true
+  xy: 515, 131
+  size: 92, 129
+  orig: 92, 129
+  offset: 0, 0
+  index: -1
+images/pigu
+  rotate: false
+  xy: 385, 123
+  size: 128, 94
+  orig: 128, 94
+  offset: 0, 0
+  index: -1
+images/pingmu
+  rotate: false
+  xy: 699, 135
+  size: 195, 166
+  orig: 195, 166
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 234, 219
+  size: 272, 288
+  orig: 272, 288
+  offset: 0, 0
+  index: -1
+images/shou
+  rotate: true
+  xy: 903, 326
+  size: 181, 106
+  orig: 181, 106
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 699, 303
+  size: 202, 204
+  orig: 202, 204
+  offset: 0, 0
+  index: -1
+images/tui1
+  rotate: true
+  xy: 234, 103
+  size: 114, 149
+  orig: 114, 149
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: true
+  xy: 385, 39
+  size: 82, 120
+  orig: 82, 120
+  offset: 0, 0
+  index: -1
+images/weoba
+  rotate: false
+  xy: 508, 225
+  size: 189, 282
+  orig: 189, 282
+  offset: 0, 0
+  index: -1
+images/yanbai
+  rotate: false
+  xy: 160, 2
+  size: 114, 99
+  orig: 114, 99
+  offset: 0, 0
+  index: -1
+images/yanqiu1
+  rotate: false
+  xy: 321, 56
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+images/yanqiu2
+  rotate: true
+  xy: 160, 103
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+images/yaopin1
+  rotate: false
+  xy: 646, 149
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+images/yaopin2
+  rotate: false
+  xy: 276, 40
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1

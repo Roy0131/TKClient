@@ -1,0 +1,258 @@
+
+H1017hw.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1/TX_3_1
+  rotate: false
+  xy: 844, 436
+  size: 178, 70
+  orig: 268, 80
+  offset: 82, 4
+  index: -1
+images/TX/TX_1/TX_3_2
+  rotate: false
+  xy: 105, 283
+  size: 181, 71
+  orig: 268, 80
+  offset: 79, 4
+  index: -1
+images/TX/TX_1/TX_3_3
+  rotate: false
+  xy: 477, 431
+  size: 182, 75
+  orig: 268, 80
+  offset: 56, 2
+  index: -1
+images/TX/TX_1/TX_3_4
+  rotate: false
+  xy: 661, 429
+  size: 181, 77
+  orig: 268, 80
+  offset: 35, 1
+  index: -1
+images/TX/TX_1/TX_3_5
+  rotate: false
+  xy: 257, 374
+  size: 185, 79
+  orig: 268, 80
+  offset: 13, 0
+  index: -1
+images/TX/TX_1/TX_3_7
+  rotate: true
+  xy: 2, 101
+  size: 194, 80
+  orig: 268, 80
+  offset: 11, 0
+  index: -1
+images/TX/TX_2/TX_2_1
+  rotate: false
+  xy: 75, 8
+  size: 83, 47
+  orig: 120, 131
+  offset: 15, 0
+  index: -1
+images/TX/TX_2/TX_2_2
+  rotate: true
+  xy: 84, 57
+  size: 113, 126
+  orig: 120, 131
+  offset: 0, 1
+  index: -1
+images/TX/TX_2/TX_2_3
+  rotate: true
+  xy: 230, 150
+  size: 113, 125
+  orig: 120, 131
+  offset: 1, 0
+  index: -1
+images/TX/TX_2/TX_2_4
+  rotate: true
+  xy: 212, 37
+  size: 111, 124
+  orig: 120, 131
+  offset: 2, 0
+  index: -1
+images/TX/TX_2/TX_2_6
+  rotate: true
+  xy: 601, 364
+  size: 65, 52
+  orig: 120, 131
+  offset: 17, 46
+  index: -1
+images/f1
+  rotate: false
+  xy: 288, 265
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+images/f2
+  rotate: false
+  xy: 655, 388
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+images/f3
+  rotate: false
+  xy: 397, 148
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+images/f4
+  rotate: true
+  xy: 160, 8
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 105, 356
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/pifeng
+  rotate: false
+  xy: 84, 172
+  size: 144, 109
+  orig: 144, 109
+  offset: 0, 0
+  index: -1
+images/qun1
+  rotate: true
+  xy: 265, 3
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: true
+  xy: 444, 368
+  size: 61, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 357, 173
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+images/weapon1
+  rotate: false
+  xy: 2, 297
+  size: 101, 209
+  orig: 103, 209
+  offset: 0, 0
+  index: -1
+images/yinying
+  rotate: false
+  xy: 257, 455
+  size: 218, 51
+  orig: 222, 54
+  offset: 1, 1
+  index: -1
+images/youdabi
+  rotate: false
+  xy: 812, 384
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+images/youdatui
+  rotate: true
+  xy: 895, 400
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+images/youjian
+  rotate: true
+  xy: 212, 2
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+images/youjiao
+  rotate: false
+  xy: 444, 436
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+images/youshou
+  rotate: false
+  xy: 989, 402
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+images/youxiaobi
+  rotate: true
+  xy: 655, 354
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+images/youxiaotui
+  rotate: true
+  xy: 357, 141
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+images/zuodabi
+  rotate: true
+  xy: 535, 371
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+images/zuodatui
+  rotate: false
+  xy: 762, 387
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+images/zuojian
+  rotate: true
+  xy: 2, 13
+  size: 86, 71
+  orig: 86, 71
+  offset: 0, 0
+  index: -1
+images/zuojiao
+  rotate: true
+  xy: 313, 3
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: false
+  xy: 941, 402
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+images/zuoxiaobi
+  rotate: true
+  xy: 711, 383
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+images/zuoxiaotui
+  rotate: false
+  xy: 854, 394
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1

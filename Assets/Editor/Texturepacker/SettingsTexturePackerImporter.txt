@@ -1,0 +1,36 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/UI/TextruePacker_UGUI/UI/BagUI/uBagUI.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/BuildEquipment/buildEquipment.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/CombatCtrlUI/uCombatCtrlUI.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/CreateRoleUI/CreateRoleUIAtlas.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/GetItemUI/uGetItemUI.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/LoginUI/LoginUIAtlas.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/MainSceneUI/battleAtlas.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/MainSceneUI/MainSceneUIAtlas.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/MainSceneUI/uMainSceneRootUI.tpsheet
+- Assets/UI/TextruePacker_UGUI/UI/PopUI/PopConfirmUIAtlas.tpsheet
+textureFileNames:
+- Assets/UI/TextruePacker_UGUI/UI/BagUI/uBagUI.png
+- Assets/UI/TextruePacker_UGUI/UI/BuildEquipment/buildEquipment.png
+- Assets/UI/TextruePacker_UGUI/UI/CombatCtrlUI/uCombatCtrlUI.png
+- Assets/UI/TextruePacker_UGUI/UI/CreateRoleUI/CreateRoleUIAtlas.png
+- Assets/UI/TextruePacker_UGUI/UI/GetItemUI/uGetItemUI.png
+- Assets/UI/TextruePacker_UGUI/UI/LoginUI/LoginUIAtlas.png
+- Assets/UI/TextruePacker_UGUI/UI/MainSceneUI/battleAtlas.png
+- Assets/UI/TextruePacker_UGUI/UI/MainSceneUI/MainSceneUIAtlas.png
+- Assets/UI/TextruePacker_UGUI/UI/MainSceneUI/uMainSceneRootUI.png
+- Assets/UI/TextruePacker_UGUI/UI/PopUI/PopConfirmUIAtlas.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

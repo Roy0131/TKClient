@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		guide 参数说明:
+				id - 大的引导ID
+				keyStep - 引导关键步骤，如果子步骤大于keyStep时，表明此步引导已经可以结束，进入下一步
+				cameraType - 摄像机位置
+						0 : 默认状态
+						1 : 移到最左边
+						2 : 移动最右边
+		step 参数说明：
+				id - step id
+				
+				type - 引导类型：
+							0：功能引导
+							1：输入名字ui
+							2：能力ui
+							3：目标ui
+							4: 位置说明
+
+				dialogStyle - 旁白样式, 1：NPC左边，旁白在上面
+									   2：NPC左边，旁白在底部
+									   3：NPC右边，旁白在上面
+									   4：NPC右边，旁白在底部
+										 
+				dialogId - 旁白语言ID
+
+				condition - 条件，判断是否可以跳过改步骤
+				maskType:
+						 0: 无遮罩
+						 1 : 全局遮罩， 
+						 2 : 需要矩形打洞方式
+						 3 : 需要圆形打洞方式
+				maskid:	maskType 为非0时，需要打洞对象  
+				jumpNextID: 引导断开后，重新进入，需要从头引导，如果当引导步骤需要跳过，则跳到指定步骤，通宵该字段与condition同时用  (可选字段)
+				enterCondition: 进入条件 (可选字段)
+								0 ：无
+								21 ：抽卡结果显示完成
+								31 : 挂机界面完全打开
+								32 ：布阵界面完全打开
+				endCondition:   结束条件  (可选字段)
+								0 : 自身逻辑结束 非0表示事件出发
+				openmodule:    (可选字段)
+								1: 抽卡界面
+								2：挂机
+				specialLogic:   引导中特殊逻辑 (可选字段)
+								1：布阵引导界面
+				battleState:   战斗状态  (可选字段)
+								0 : 不需要处理
+								1 : 暂停
+								2 : 继续战斗
+				waitMaskStatus: 引导挂起状态时，是否需要遮罩、屏蔽玩家操作事件。(可选字段)
+								1 ： 需要遮罩   默认值
+								0 ： 不需要遮罩，放开操作
+				openMainMapDrag: 是否放开主界面操作，1：是放开，0：禁掉mainmapmgr操作(默认值)。(可选字段)
+				示例：
+				<step id = "5"  type = "0"  dialogStyle = "2" dialogId = "3011023" condition = "0" maskType = "1" maskid = "0"  jumpNextID = "0"
+								enterCondition = "31" openModule = "0" specialLogic = "0" pauseBattle = "1" />
+	-->
+	<guide id = "1" keyStep = "3" cameraType = "0" >
+		<step id = "1"  type = "0"  dialogStyle = "2" dialogId = "3011001" maskType = "1" />
+		<step id = "2"  type = "0"  dialogStyle = "1" dialogId = "3011002" maskType = "1" />
+		<step id = "3"  type = "1"  dialogStyle = "0" dialogId = "0" 	   maskType = "1" />
+	</guide>
+
+	<guide id = "2" keyStep = "6" cameraType = "0" >
+		<step id = "1"  type = "0"  dialogStyle = "3" dialogId = "3011009" maskType = "3" maskid = "20" openModule = "1" endCondition = "20" /><!-- 抽卡建筑 -->
+		<step id = "2"  type = "0"  dialogStyle = "4" dialogId = "3011010" condition = "21" maskType = "1" maskid = "0" jumpNextID = "5" /> <!-- 低层抽卡旁白 -->
+		<step id = "3"  type = "0"  dialogStyle = "3" dialogId = "3011011" maskType = "2" maskid = "21" endCondition = "21" /> <!-- 引导低级抽卡按钮 -->
+		<step id = "4"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "23" enterCondition = "21" /> <!-- 抽卡界面返回 -->
+		<step id = "5"  type = "0"  dialogStyle = "4" dialogId = "3011012" maskType = "1" maskid = "0"  /> <!-- 高级抽卡旁白 -->
+		<step id = "6"  type = "0"  dialogStyle = "3" dialogId = "3011013" maskType = "2" maskid = "22" endCondition = "21" /> <!-- 高级抽卡按钮 -->
+		<step id = "7"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "23" enterCondition = "21" /> <!-- 抽卡返回 -->
+		<step id = "8"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "24" SignOut = "1" /> <!-- 引导退出抽卡界面按钮 -->
+		<step id = "9"  type = "0"  dialogStyle = "2" dialogId = "3011019" maskType = "1" /> <!-- 旁白 -->
+	</guide>
+
+	<guide id = "3" keyStep = "4" cameraType = "0" >
+		<step id = "1"  type = "0"  dialogStyle = "2" dialogId = "3011020" maskType = "3" maskid = "30" openModule = "2" endCondition = "30"/> <!-- 挂机建筑 -->
+		<step id = "2"  type = "0"  dialogStyle = "1" dialogId = "3011021" maskType = "2" maskid = "31" condition = "31" jumpNextID = "11" /><!-- 战斗按钮 -->
+		<step id = "3"  type = "0"  dialogStyle = "2" dialogId = "3011022" maskType = "0" maskid = "0"  enterCondition = "31" specialLogic = "31" /> <!-- 布阵逻辑 -->
+		<step id = "4"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "32" endCondition = "1"/> <!-- 布阵界面战斗按钮 -->
+		<step id = "5"  type = "0"  dialogStyle = "2" dialogId = "3011023" maskType = "1" maskid = "0"  enterCondition = "1" battleState = "1" /> <!-- 进入战斗界面，显示旁白 -->
+		<step id = "6"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "33" SignOut = "1" /> <!-- 引导克制按钮 -->
+		<step id = "7"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "301" />
+		<step id = "8"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "0" maskid = "0"  endCondition = "2" waitMaskStatus = "0" battleState = "2" /> <!-- 点击克制按钮后，放开遮罩，等到战斗结束 -->
+		<step id = "9"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "34" enterCondition = "2" endCondition = "30"/> <!-- 等待战斗结束,结算动画结束时，引导结束 -->
+		<step id = "10" type = "0"  dialogStyle = "1" dialogId = "3011026" maskType = "1" maskid = "0" /> <!-- 战斗返回，功能界面打开，显示旁白 -->
+		<step id = "11" type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "35" SignOut = "1" /> <!-- 引导关闭界面-->
+	</guide>
+	
+	<guide id = "4" keyStep = "5" cameraType = "0" >
+		<step id = "1"  type = "0"  dialogStyle = "1" dialogId = "3011027" maskType = "3" maskid = "40" openModule = "3" endCondition = "40" />
+		<step id = "2"  type = "0"  dialogStyle = "0" dialogId = "0"	   maskType = "2" maskid = "41" />
+		<step id = "3"  type = "0"  dialogStyle = "4" dialogId = "3011028" maskType = "2" maskid = "42" />
+		<step id = "4"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "43" />
+		<step id = "5"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "44" endCondition = "90"/>
+		<step id = "6"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "10" />
+		<step id = "7"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "45" SignOut = "1" />
+	</guide>
+	
+	<guide id = "5" keyStep = "4" cameraType = "1" >
+		<step id = "1"  type = "0"  dialogStyle = "4" dialogId = "3011029" maskType = "3" maskid = "50" openModule = "4" />
+		<step id = "2"  type = "0"  dialogStyle = "2" dialogId = "3011030" maskType = "1" maskid = "0"  />
+		<step id = "3"  type = "0"  dialogStyle = "2" dialogId = "3011031" maskType = "2" maskid = "51" />
+		<step id = "4"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "52" endCondition = "50" />
+		<step id = "5"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "53" />
+		<step id = "6"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "54" SignOut = "1" />
+	</guide>
+	
+	<guide id = "6" keyStep = "10" cameraType = "0" >
+		<step id = "1"  type = "0"  dialogStyle = "1" dialogId = "3011032" maskType = "3" maskid = "60" openModule = "5" endCondition = "60" />
+		<step id = "2"  type = "0"  dialogStyle = "0" dialogId = "0"	   maskType = "2" maskid = "61" />
+		<step id = "3"  type = "0"  dialogStyle = "1" dialogId = "3011033" maskType = "2" maskid = "62" condition = "61" jumpNextID = "4" />
+		<step id = "4"  type = "0"  dialogStyle = "1" dialogId = "3011034" maskType = "2" maskid = "62" condition = "62" jumpNextID = "5" />
+		<step id = "5"  type = "0"  dialogStyle = "1" dialogId = "3011035" maskType = "2" maskid = "62" condition = "63" jumpNextID = "6" />
+		<step id = "6"  type = "0"  dialogStyle = "1" dialogId = "3011036" maskType = "2" maskid = "62" condition = "64" jumpNextID = "7" />
+		<step id = "7"  type = "0"  dialogStyle = "1" dialogId = "3011037" maskType = "2" maskid = "63" />
+		<step id = "8"  type = "0"  dialogStyle = "2" dialogId = "3011038" maskType = "2" maskid = "64" />
+		<step id = "9"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "65" />
+		<step id = "10" type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "66" />
+		<step id = "11" type = "0"  dialogStyle = "2" dialogId = "3011039" maskType = "1" maskid = "0"  />
+		<step id = "12" type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "67" SignOut = "1" />
+		<step id = "13" type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "68" SignOut = "1" />
+	</guide>
+
+	<guide id = "7" keyStep = "14" cameraType = "0" >
+		<step id = "1"  type = "0" dialogStyle = "2" dialogId = "3011040" maskType = "3" maskid = "30" openModule = "2" endCondition = "30" condition = "32" jumpNextID = "15" /> <!-- 挂机建筑 -->
+		<step id = "2"  type = "0" dialogStyle = "3" dialogId = "3011041" maskType = "2" maskid = "36" condition = "71" jumpNextID = "5" /> <!-- 引导切换挂机地图 -->
+		<step id = "3"  type = "0" dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "37" /> <!-- 弹出切换挂机界面 -->
+		<step id = "4"  type = "0" dialogStyle = "1" dialogId = "3011042" maskType = "2" maskid = "31" endCondition = "32" /> <!-- 展示切换挂机地图倒计时 -->
+		<step id = "5"  type = "0" dialogStyle = "1" dialogId = "3011043" maskType = "2" maskid = "38" enterCondition = "70" /><!-- 获取固定奖励按钮引导 -->
+		<step id = "6"  type = "0" dialogStyle = "1" dialogId = "3011044" maskType = "2" maskid = "31" condition = "72" jumpNextID = "12" /><!-- 战斗按钮 -->
+		<step id = "7"  type = "0" dialogStyle = "2" dialogId = "3011022" maskType = "0" maskid = "0"  enterCondition = "31" specialLogic = "32" /> <!-- 布阵逻辑 -->
+		<step id = "8"  type = "0" dialogStyle = "2" dialogId = "3011047" maskType = "0" maskid = "0"  specialLogic = "33" /> <!-- 交换英雄提示 -->
+		<step id = "9"  type = "0" dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "32" endCondition = "1" /> <!-- 布阵界面战斗按钮 -->
+		<step id = "10" type = "0" dialogStyle = "0" dialogId = "0" 	  maskType = "0" maskid = "0"  enterCondition = "1" waitMaskStatus = "0" endCondition = "2" /> <!-- 进入战斗逻辑，放开遮罩，等待战斗结束 -->
+		<step id = "11" type = "0" dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "34" enterCondition = "2" endCondition = "30" /> <!-- 战斗结束，奖励界面动画结束，引导退出战斗 -->
+		<step id = "12" type = "0" dialogStyle = "1" dialogId = "3011048" maskType = "2" maskid = "38" /> <!-- 等待战斗回到主界面后再次打开主界面，引导再次领取固定奖励逻辑 -->
+		<step id = "13" type = "0" dialogStyle = "3" dialogId = "3011041" maskType = "2" maskid = "39" /> <!-- 引导切换挂机地图逻辑 -->
+		<step id = "14" type = "0" dialogStyle = "0" dialogId = "0"       maskType = "2" maskid = "37" /> <!-- 弹出切换挂机界面 -->
+		<step id = "15" type = "0" dialogStyle = "3" dialogId = "3011049" maskType = "2" maskid = "35" SignOut = "1" /> <!-- 引导关闭界面-->
+	</guide>
+
+	<guide id = "8" keyStep = "2" cameraType = "0" >
+		<step id = "1"  type = "0"  dialogStyle = "1" dialogId = "3011050" maskType = "3" maskid = "80" endCondition = "80" openModule = "8" />
+		<step id = "2"  type = "0"  dialogStyle = "0" dialogId = "0"	   maskType = "2" maskid = "81" endCondition = "90" />
+		<step id = "3"  type = "0"  dialogStyle = "0" dialogId = "0"	   maskType = "2" maskid = "10" />
+		<step id = "4"  type = "0"  dialogStyle = "0" dialogId = "0"	   maskType = "2" maskid = "82" SignOut = "2" />
+	</guide>
+	
+	<guide id = "9" keyStep = "3" cameraType = "2" >
+		<step id = "1"  type = "0"  dialogStyle = "1" dialogId = "3011051" maskType = "3" maskid = "90" openModule = "9" />
+		<step id = "2"  type = "0"  dialogStyle = "2" dialogId = "3011052" maskType = "2" maskid = "91" enterCondition = "90" condition = "90" jumpNextID = "5" />
+		<step id = "3"  type = "0"  dialogStyle = "3" dialogId = "3011053" maskType = "2" maskid = "92" endCondition = "90" />
+		<step id = "4"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "10" />
+		<step id = "5"  type = "0"  dialogStyle = "0" dialogId = "0" 	   maskType = "2" maskid = "93" SignOut = "1" />
+		<step id = "6"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "3" maskid = "30" openModule = "2" endCondition = "30"/> <!-- 挂机建筑 -->
+		<step id = "7"  type = "0"  dialogStyle = "1" dialogId = "3011063" maskType = "1" maskid = "0"  />
+	</guide>
+
+	<guide id = "10" keyStep = "2" cameraType = "0" >
+		<step id = "1"  type = "0"  dialogStyle = "0" dialogId = "0"       maskType = "0" maskid = "0"     enterCondition = "100" waitMaskStatus = "0" endCondition = "100" openMainMapDrag = "1" /> <!-- 竞技场界面打开，结束当前挂起引导 -->
+		<step id = "2"  type = "0"  dialogStyle = "1" dialogId = "3011056" maskType = "2" maskid = "100" />
+	</guide>
+</root>

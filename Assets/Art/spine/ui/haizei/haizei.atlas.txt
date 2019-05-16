@@ -1,0 +1,104 @@
+
+haizei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1/1
+  rotate: true
+  xy: 440, 45
+  size: 92, 14
+  orig: 100, 16
+  offset: 3, 2
+  index: -1
+images/TX/TX_1/2
+  rotate: false
+  xy: 128, 2
+  size: 94, 14
+  orig: 100, 16
+  offset: 2, 2
+  index: -1
+images/TX/TX_1/3
+  rotate: false
+  xy: 128, 18
+  size: 97, 15
+  orig: 100, 16
+  offset: 1, 1
+  index: -1
+images/TX/TX_1/4
+  rotate: true
+  xy: 486, 147
+  size: 97, 15
+  orig: 100, 16
+  offset: 1, 1
+  index: -1
+images/TX/TX_1/5
+  rotate: true
+  xy: 469, 145
+  size: 99, 15
+  orig: 100, 16
+  offset: 0, 1
+  index: -1
+images/TX/TX_1/6
+  rotate: true
+  xy: 451, 144
+  size: 100, 16
+  orig: 100, 16
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/7
+  rotate: false
+  xy: 128, 35
+  size: 100, 16
+  orig: 100, 16
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/8
+  rotate: true
+  xy: 422, 45
+  size: 92, 16
+  orig: 100, 16
+  offset: 2, 0
+  index: -1
+images/chuan
+  rotate: false
+  xy: 234, 119
+  size: 100, 125
+  orig: 100, 125
+  offset: 0, 0
+  index: -1
+images/d1
+  rotate: false
+  xy: 345, 52
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+images/dao
+  rotate: false
+  xy: 2, 53
+  size: 230, 191
+  orig: 230, 191
+  offset: 0, 0
+  index: -1
+images/fan
+  rotate: false
+  xy: 234, 11
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+images/shu
+  rotate: false
+  xy: 336, 139
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+images/yinying
+  rotate: false
+  xy: 2, 7
+  size: 124, 44
+  orig: 124, 44
+  offset: 0, 0
+  index: -1

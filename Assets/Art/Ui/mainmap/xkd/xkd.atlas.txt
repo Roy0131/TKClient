@@ -1,0 +1,41 @@
+
+xkd.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/caihong
+  rotate: false
+  xy: 2, 83
+  size: 325, 150
+  orig: 325, 150
+  offset: 0, 0
+  index: -1
+images/fushi
+  rotate: false
+  xy: 111, 60
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 2, 36
+  size: 107, 45
+  orig: 107, 45
+  offset: 0, 0
+  index: -1
+images/guang2
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/xkd
+  rotate: false
+  xy: 329, 89
+  size: 177, 144
+  orig: 177, 144
+  offset: 0, 0
+  index: -1

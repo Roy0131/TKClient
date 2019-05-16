@@ -1,0 +1,27 @@
+
+tansuo.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fangdajing
+  rotate: false
+  xy: 2, 2
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+images/fangdajing2
+  rotate: false
+  xy: 80, 2
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 158, 2
+  size: 43, 85
+  orig: 76, 85
+  offset: 18, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+limingshaji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/d1
+  rotate: true
+  xy: 362, 113
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+images/d2
+  rotate: true
+  xy: 362, 154
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+images/d3
+  rotate: false
+  xy: 404, 393
+  size: 87, 110
+  orig: 87, 110
+  offset: 0, 0
+  index: -1
+images/d4
+  rotate: false
+  xy: 404, 229
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+images/d5
+  rotate: false
+  xy: 123, 10
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+images/d6
+  rotate: true
+  xy: 404, 297
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+images/dao
+  rotate: false
+  xy: 2, 206
+  size: 400, 297
+  orig: 400, 297
+  offset: 0, 0
+  index: -1
+images/shu1
+  rotate: false
+  xy: 123, 38
+  size: 127, 166
+  orig: 127, 166
+  offset: 0, 0
+  index: -1
+images/shu2
+  rotate: false
+  xy: 2, 2
+  size: 119, 202
+  orig: 119, 202
+  offset: 0, 0
+  index: -1
+images/shu3
+  rotate: false
+  xy: 252, 29
+  size: 108, 175
+  orig: 108, 175
+  offset: 0, 0
+  index: -1

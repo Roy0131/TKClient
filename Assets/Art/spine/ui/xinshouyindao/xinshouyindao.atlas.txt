@@ -1,0 +1,118 @@
+
+xinshouyindao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bozi
+  rotate: false
+  xy: 354, 51
+  size: 169, 113
+  orig: 169, 113
+  offset: 0, 0
+  index: -1
+images/erhuan1
+  rotate: false
+  xy: 1007, 482
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+images/erhuan2
+  rotate: false
+  xy: 271, 312
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+images/f1
+  rotate: false
+  xy: 204, 53
+  size: 148, 234
+  orig: 148, 234
+  offset: 0, 0
+  index: -1
+images/f2
+  rotate: false
+  xy: 525, 71
+  size: 172, 82
+  orig: 172, 82
+  offset: 0, 0
+  index: -1
+images/f3
+  rotate: false
+  xy: 2, 289
+  size: 267, 221
+  orig: 267, 221
+  offset: 0, 0
+  index: -1
+images/jianbing
+  rotate: false
+  xy: 695, 226
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+images/p1
+  rotate: false
+  xy: 2, 33
+  size: 200, 254
+  orig: 200, 254
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 354, 166
+  size: 174, 171
+  orig: 174, 171
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 530, 155
+  size: 163, 153
+  orig: 163, 153
+  offset: 0, 0
+  index: -1
+images/tui
+  rotate: true
+  xy: 567, 310
+  size: 200, 241
+  orig: 200, 241
+  offset: 0, 0
+  index: -1
+images/yanjing
+  rotate: true
+  xy: 977, 417
+  size: 93, 28
+  orig: 93, 28
+  offset: 0, 0
+  index: -1
+images/youxiaobi
+  rotate: false
+  xy: 810, 314
+  size: 165, 196
+  orig: 165, 196
+  offset: 0, 0
+  index: -1
+images/zuodabi
+  rotate: true
+  xy: 788, 225
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: false
+  xy: 271, 339
+  size: 294, 171
+  orig: 294, 171
+  offset: 0, 0
+  index: -1
+images/zuxoiaobi
+  rotate: true
+  xy: 204, 2
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1

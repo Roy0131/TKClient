@@ -1,0 +1,69 @@
+
+tiankongmujian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 266, 167
+  size: 117, 45
+  orig: 117, 45
+  offset: 0, 0
+  index: -1
+images/d1
+  rotate: false
+  xy: 389, 312
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+images/dao
+  rotate: false
+  xy: 2, 214
+  size: 385, 278
+  orig: 385, 278
+  offset: 0, 0
+  index: -1
+images/dao2
+  rotate: false
+  xy: 389, 211
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+images/dao3
+  rotate: false
+  xy: 389, 259
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+images/dao4
+  rotate: false
+  xy: 266, 96
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+images/feichuan
+  rotate: false
+  xy: 2, 81
+  size: 262, 131
+  orig: 262, 131
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 389, 392
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+images/yinying
+  rotate: false
+  xy: 2, 2
+  size: 217, 77
+  orig: 217, 77
+  offset: 0, 0
+  index: -1

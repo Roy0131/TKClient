@@ -1,0 +1,90 @@
+
+keji.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/1
+  rotate: false
+  xy: 219, 195
+  size: 102, 56
+  orig: 102, 56
+  offset: 0, 0
+  index: -1
+images/TX/2
+  rotate: false
+  xy: 321, 71
+  size: 60, 38
+  orig: 100, 50
+  offset: 23, 4
+  index: -1
+images/TX/3
+  rotate: false
+  xy: 323, 111
+  size: 69, 41
+  orig: 100, 50
+  offset: 17, 5
+  index: -1
+images/TX/4
+  rotate: false
+  xy: 219, 47
+  size: 71, 42
+  orig: 100, 50
+  offset: 17, 4
+  index: -1
+images/TX/5
+  rotate: false
+  xy: 425, 206
+  size: 85, 45
+  orig: 100, 50
+  offset: 8, 4
+  index: -1
+images/TX/6
+  rotate: false
+  xy: 323, 154
+  size: 86, 46
+  orig: 100, 50
+  offset: 8, 3
+  index: -1
+images/TX/7
+  rotate: false
+  xy: 219, 91
+  size: 100, 47
+  orig: 100, 50
+  offset: 0, 3
+  index: -1
+images/TX/8
+  rotate: false
+  xy: 323, 202
+  size: 100, 49
+  orig: 100, 50
+  offset: 0, 1
+  index: -1
+images/guan1
+  rotate: false
+  xy: 56, 12
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+images/guan2
+  rotate: true
+  xy: 2, 2
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+images/keji
+  rotate: false
+  xy: 2, 36
+  size: 215, 215
+  orig: 228, 225
+  offset: 7, 10
+  index: -1
+images/yeti
+  rotate: false
+  xy: 219, 140
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+paihangbang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1/1
+  rotate: true
+  xy: 139, 2
+  size: 19, 29
+  orig: 56, 42
+  offset: 0, 1
+  index: -1
+images/TX/TX_1/10
+  rotate: true
+  xy: 107, 66
+  size: 44, 36
+  orig: 56, 42
+  offset: 8, 0
+  index: -1
+images/TX/TX_1/11
+  rotate: true
+  xy: 107, 23
+  size: 41, 37
+  orig: 56, 42
+  offset: 13, 1
+  index: -1
+images/TX/TX_1/12
+  rotate: true
+  xy: 400, 180
+  size: 37, 39
+  orig: 56, 42
+  offset: 18, 1
+  index: -1
+images/TX/TX_1/13
+  rotate: false
+  xy: 345, 142
+  size: 33, 38
+  orig: 56, 42
+  offset: 23, 3
+  index: -1
+images/TX/TX_1/14
+  rotate: false
+  xy: 480, 179
+  size: 28, 38
+  orig: 56, 42
+  offset: 28, 4
+  index: -1
+images/TX/TX_1/15
+  rotate: true
+  xy: 345, 116
+  size: 24, 35
+  orig: 56, 42
+  offset: 32, 7
+  index: -1
+images/TX/TX_1/16
+  rotate: true
+  xy: 107, 2
+  size: 19, 30
+  orig: 56, 42
+  offset: 37, 12
+  index: -1
+images/TX/TX_1/17
+  rotate: true
+  xy: 143, 119
+  size: 15, 24
+  orig: 56, 42
+  offset: 41, 18
+  index: -1
+images/TX/TX_1/2
+  rotate: false
+  xy: 480, 144
+  size: 24, 33
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/3
+  rotate: false
+  xy: 415, 144
+  size: 28, 34
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/4
+  rotate: false
+  xy: 380, 144
+  size: 33, 34
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/5
+  rotate: false
+  xy: 441, 182
+  size: 37, 35
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/6
+  rotate: false
+  xy: 357, 182
+  size: 41, 35
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/7
+  rotate: false
+  xy: 357, 219
+  size: 45, 35
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/8
+  rotate: false
+  xy: 404, 219
+  size: 45, 35
+  orig: 56, 42
+  offset: 2, 0
+  index: -1
+images/TX/TX_1/9
+  rotate: false
+  xy: 451, 219
+  size: 45, 35
+  orig: 56, 42
+  offset: 5, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 2, 112
+  size: 139, 142
+  orig: 139, 142
+  offset: 0, 0
+  index: -1
+images/dizuo
+  rotate: false
+  xy: 257, 200
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+images/guang1
+  rotate: true
+  xy: 445, 149
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+images/hua
+  rotate: false
+  xy: 2, 20
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+images/jiangbei
+  rotate: false
+  xy: 257, 133
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+images/yinying
+  rotate: false
+  xy: 143, 136
+  size: 112, 118
+  orig: 112, 118
+  offset: 0, 0
+  index: -1

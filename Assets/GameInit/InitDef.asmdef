@@ -1,0 +1,10 @@
+{
+    "name": "InitDef",
+    "references": [
+        "GameLibs"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+     <item ChapterID="1" CampaignCount="10" Icon="" />
+     <item ChapterID="2" CampaignCount="10" Icon="" />
+     <item ChapterID="3" CampaignCount="15" Icon="" />
+     <item ChapterID="4" CampaignCount="15" Icon="0" />
+     <item ChapterID="5" CampaignCount="20" Icon="0" />
+     <item ChapterID="6" CampaignCount="20" Icon="0" />
+     <item ChapterID="7" CampaignCount="20" Icon="0" />
+     <item ChapterID="8" CampaignCount="20" Icon="0" />
+</Config>

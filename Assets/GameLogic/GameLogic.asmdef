@@ -1,0 +1,11 @@
+{
+    "name": "GameLogic",
+    "references": [
+        "InitDef",
+        "GameLibs"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}

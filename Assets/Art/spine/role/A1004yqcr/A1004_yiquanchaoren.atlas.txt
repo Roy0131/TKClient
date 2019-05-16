@@ -1,0 +1,125 @@
+
+A1004_yiquanchaoren.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yiquan_0000_tou
+  rotate: true
+  xy: 216, 34
+  size: 92, 109
+  orig: 92, 109
+  offset: 0, 0
+  index: -1
+images/yiquan_0001_shou1
+  rotate: false
+  xy: 462, 86
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+images/yiquan_0002_pifeng1
+  rotate: true
+  xy: 743, 97
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+images/yiquan_0003_xiaobi1
+  rotate: false
+  xy: 661, 88
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+images/yiquan_0004_dabi1
+  rotate: false
+  xy: 399, 86
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+images/yiquan_0005_shou2
+  rotate: false
+  xy: 509, 91
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+images/yiquan_0006_xiaobi2
+  rotate: false
+  xy: 700, 94
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+images/yiquan_0007_shenti
+  rotate: false
+  xy: 327, 71
+  size: 70, 55
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+images/yiquan_0008_datui1
+  rotate: true
+  xy: 327, 2
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+images/yiquan_0009_pigu
+  rotate: false
+  xy: 124, 7
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+images/yiquan_0010_xiaotui1
+  rotate: false
+  xy: 561, 95
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+images/yiquan_0011_jiao1
+  rotate: false
+  xy: 226, 3
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+images/yiquan_0012_datui2
+  rotate: false
+  xy: 617, 87
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+images/yiquan_0013_xiaotui2
+  rotate: false
+  xy: 186, 2
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+images/yiquan_0014_jiao2
+  rotate: false
+  xy: 782, 101
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+images/yiquan_0015_pifeng2
+  rotate: false
+  xy: 2, 51
+  size: 212, 75
+  orig: 212, 75
+  offset: 0, 0
+  index: -1
+images/yiquan_0016_pifeng3
+  rotate: false
+  xy: 2, 3
+  size: 120, 46
+  orig: 121, 46
+  offset: 0, 0
+  index: -1

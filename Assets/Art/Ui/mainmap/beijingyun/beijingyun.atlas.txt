@@ -1,0 +1,34 @@
+
+beijingyun.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yun1
+  rotate: false
+  xy: 2, 2
+  size: 182, 55
+  orig: 183, 55
+  offset: 1, 0
+  index: -1
+images/yun2
+  rotate: false
+  xy: 2, 59
+  size: 229, 65
+  orig: 230, 65
+  offset: 0, 0
+  index: -1
+images/yun3
+  rotate: false
+  xy: 382, 79
+  size: 99, 45
+  orig: 100, 46
+  offset: 0, 1
+  index: -1
+images/yun4
+  rotate: false
+  xy: 233, 75
+  size: 147, 49
+  orig: 150, 49
+  offset: 1, 0
+  index: -1

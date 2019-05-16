@@ -1,0 +1,97 @@
+
+zhongjingshu.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/cong1
+  rotate: false
+  xy: 448, 70
+  size: 199, 55
+  orig: 200, 56
+  offset: 0, 1
+  index: -1
+images/cong10
+  rotate: false
+  xy: 757, 17
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+images/cong2
+  rotate: true
+  xy: 649, 70
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+images/cong3
+  rotate: false
+  xy: 580, 10
+  size: 111, 58
+  orig: 115, 58
+  offset: 3, 0
+  index: -1
+images/cong4
+  rotate: true
+  xy: 812, 5
+  size: 120, 75
+  orig: 120, 75
+  offset: 0, 0
+  index: -1
+images/cong5
+  rotate: false
+  xy: 460, 10
+  size: 118, 58
+  orig: 119, 58
+  offset: 0, 0
+  index: -1
+images/cong6
+  rotate: false
+  xy: 296, 44
+  size: 150, 81
+  orig: 150, 81
+  offset: 0, 0
+  index: -1
+images/cong7
+  rotate: false
+  xy: 388, 2
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+images/cong9
+  rotate: true
+  xy: 693, 3
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+images/shitou
+  rotate: false
+  xy: 296, 10
+  size: 90, 32
+  orig: 90, 33
+  offset: 0, 1
+  index: -1
+images/shu1
+  rotate: true
+  xy: 165, 25
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+images/shu2
+  rotate: true
+  xy: 712, 75
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+images/shucong
+  rotate: false
+  xy: 2, 33
+  size: 161, 92
+  orig: 161, 92
+  offset: 0, 0
+  index: -1

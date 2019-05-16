@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+     <item ID="1" LevelMin="1" LevelMax="40" BossStageID="5001" ChallengeDropID="105001" RewardLastHit="3,100" RewardOwner="3,100" BossIDShow="6056" BossRankShow="6" BossLevelShow="40" />
+     <item ID="2" LevelMin="41" LevelMax="55" BossStageID="5002" ChallengeDropID="105002" RewardLastHit="3,120" RewardOwner="3,120" BossIDShow="5056" BossRankShow="6" BossLevelShow="70" />
+     <item ID="3" LevelMin="56" LevelMax="70" BossStageID="5003" ChallengeDropID="105003" RewardLastHit="3,140" RewardOwner="3,140" BossIDShow="1056" BossRankShow="6" BossLevelShow="100" />
+     <item ID="4" LevelMin="71" LevelMax="85" BossStageID="5004" ChallengeDropID="105004" RewardLastHit="3,160" RewardOwner="3,160" BossIDShow="4056" BossRankShow="6" BossLevelShow="130" />
+     <item ID="5" LevelMin="86" LevelMax="100" BossStageID="5005" ChallengeDropID="105005" RewardLastHit="3,180" RewardOwner="3,180" BossIDShow="2056" BossRankShow="6" BossLevelShow="160" />
+     <item ID="6" LevelMin="101" LevelMax="115" BossStageID="5006" ChallengeDropID="105006" RewardLastHit="3,200" RewardOwner="3,200" BossIDShow="6056" BossRankShow="6" BossLevelShow="190" />
+     <item ID="7" LevelMin="116" LevelMax="130" BossStageID="5007" ChallengeDropID="105007" RewardLastHit="3,220" RewardOwner="3,220" BossIDShow="5056" BossRankShow="6" BossLevelShow="220" />
+     <item ID="8" LevelMin="131" LevelMax="145" BossStageID="5008" ChallengeDropID="105008" RewardLastHit="3,240" RewardOwner="3,240" BossIDShow="1056" BossRankShow="6" BossLevelShow="250" />
+     <item ID="9" LevelMin="146" LevelMax="160" BossStageID="5009" ChallengeDropID="105009" RewardLastHit="3,260" RewardOwner="3,260" BossIDShow="4056" BossRankShow="6" BossLevelShow="280" />
+     <item ID="10" LevelMin="161" LevelMax="200" BossStageID="5010" ChallengeDropID="105010" RewardLastHit="3,280" RewardOwner="3,280" BossIDShow="2056" BossRankShow="6" BossLevelShow="310" />
+</Config>

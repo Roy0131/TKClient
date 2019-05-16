@@ -1,0 +1,48 @@
+
+gonghuizhan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dizuo
+  rotate: false
+  xy: 2, 75
+  size: 193, 174
+  orig: 200, 179
+  offset: 3, 3
+  index: -1
+images/guangquan
+  rotate: false
+  xy: 197, 208
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+images/qizi
+  rotate: true
+  xy: 2, 2
+  size: 71, 81
+  orig: 80, 91
+  offset: 5, 4
+  index: -1
+images/sudu
+  rotate: false
+  xy: 197, 185
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+images/yeti
+  rotate: false
+  xy: 85, 5
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+images/zhu
+  rotate: false
+  xy: 151, 30
+  size: 38, 43
+  orig: 45, 47
+  offset: 3, 2
+  index: -1

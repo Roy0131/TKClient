@@ -1,0 +1,13 @@
+{
+    "name": "GameEditor",
+    "references": [
+        "GameLibs",
+        "InitDef"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

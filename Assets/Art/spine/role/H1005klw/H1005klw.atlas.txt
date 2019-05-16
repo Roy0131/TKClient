@@ -1,0 +1,328 @@
+
+H1005klw.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1/TX_1_1
+  rotate: true
+  xy: 446, 477
+  size: 147, 65
+  orig: 200, 229
+  offset: 11, 164
+  index: -1
+images/TX/TX_1/TX_1_10
+  rotate: true
+  xy: 221, 427
+  size: 187, 100
+  orig: 200, 229
+  offset: 0, 9
+  index: -1
+images/TX/TX_1/TX_1_2
+  rotate: false
+  xy: 2, 587
+  size: 190, 229
+  orig: 200, 229
+  offset: 10, 0
+  index: -1
+images/TX/TX_1/TX_1_3
+  rotate: true
+  xy: 2, 2
+  size: 143, 224
+  orig: 200, 229
+  offset: 57, 0
+  index: -1
+images/TX/TX_1/TX_1_4
+  rotate: false
+  xy: 2, 147
+  size: 154, 222
+  orig: 200, 229
+  offset: 46, 0
+  index: -1
+images/TX/TX_1/TX_1_5
+  rotate: false
+  xy: 2, 371
+  size: 163, 214
+  orig: 200, 229
+  offset: 37, 0
+  index: -1
+images/TX/TX_1/TX_1_6
+  rotate: true
+  xy: 472, 837
+  size: 173, 204
+  orig: 200, 229
+  offset: 26, 0
+  index: -1
+images/TX/TX_1/TX_1_7
+  rotate: false
+  xy: 506, 645
+  size: 181, 190
+  orig: 200, 229
+  offset: 17, 0
+  index: -1
+images/TX/TX_1/TX_1_8
+  rotate: false
+  xy: 689, 669
+  size: 184, 174
+  orig: 200, 229
+  offset: 12, 0
+  index: -1
+images/TX/TX_1/TX_1_9
+  rotate: true
+  xy: 884, 820
+  size: 190, 134
+  orig: 200, 229
+  offset: 0, 2
+  index: -1
+images/TX/TX_2/TX_2_1
+  rotate: true
+  xy: 194, 616
+  size: 200, 166
+  orig: 200, 221
+  offset: 0, 0
+  index: -1
+images/TX/TX_2/TX_2_2
+  rotate: true
+  xy: 261, 825
+  size: 185, 209
+  orig: 200, 221
+  offset: 0, 12
+  index: -1
+images/TX/TX_2/TX_2_3
+  rotate: true
+  xy: 678, 845
+  size: 165, 204
+  orig: 200, 221
+  offset: 15, 17
+  index: -1
+images/TX/TX_2/TX_2_4
+  rotate: false
+  xy: 362, 626
+  size: 142, 197
+  orig: 200, 221
+  offset: 22, 20
+  index: -1
+images/TX/TX_3/0
+  rotate: true
+  xy: 943, 597
+  size: 57, 64
+  orig: 58, 66
+  offset: 1, 0
+  index: -1
+images/TX/TX_3/1
+  rotate: true
+  xy: 323, 354
+  size: 57, 66
+  orig: 58, 66
+  offset: 1, 0
+  index: -1
+images/TX/TX_3/2
+  rotate: true
+  xy: 875, 598
+  size: 56, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+images/TX/TX_3/3
+  rotate: false
+  xy: 391, 346
+  size: 55, 65
+  orig: 58, 66
+  offset: 1, 0
+  index: -1
+images/TX/TX_3/4
+  rotate: false
+  xy: 819, 604
+  size: 54, 63
+  orig: 58, 66
+  offset: 1, 0
+  index: -1
+images/TX/TX_3/5
+  rotate: false
+  xy: 652, 505
+  size: 56, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+images/f1
+  rotate: true
+  xy: 323, 413
+  size: 49, 103
+  orig: 49, 103
+  offset: 0, 0
+  index: -1
+images/f2
+  rotate: false
+  xy: 513, 567
+  size: 133, 76
+  orig: 133, 76
+  offset: 0, 0
+  index: -1
+images/f3
+  rotate: true
+  xy: 690, 579
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+images/p1
+  rotate: true
+  xy: 652, 468
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+images/p2
+  rotate: true
+  xy: 875, 656
+  size: 162, 131
+  orig: 162, 131
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: true
+  xy: 710, 527
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: true
+  xy: 221, 377
+  size: 48, 100
+  orig: 48, 100
+  offset: 0, 0
+  index: -1
+images/wangguan
+  rotate: false
+  xy: 513, 479
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+images/weapon1
+  rotate: false
+  xy: 2, 818
+  size: 257, 192
+  orig: 257, 192
+  offset: 0, 0
+  index: -1
+images/weapon2
+  rotate: true
+  xy: 323, 464
+  size: 150, 121
+  orig: 150, 121
+  offset: 0, 0
+  index: -1
+images/yaodai
+  rotate: true
+  xy: 648, 573
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+images/yingzi
+  rotate: true
+  xy: 167, 389
+  size: 196, 52
+  orig: 196, 52
+  offset: 0, 0
+  index: -1
+images/youdatui
+  rotate: true
+  xy: 710, 498
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+images/youjian
+  rotate: false
+  xy: 753, 520
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+images/youjiao
+  rotate: true
+  xy: 793, 572
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+images/youshou
+  rotate: false
+  xy: 158, 245
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+images/youshouzhi
+  rotate: false
+  xy: 158, 276
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+images/youxiaobi
+  rotate: false
+  xy: 704, 459
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+images/youxiaotui
+  rotate: true
+  xy: 167, 357
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+images/zuodabi
+  rotate: false
+  xy: 752, 609
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+images/zuodatui
+  rotate: false
+  xy: 753, 557
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+images/zuojian
+  rotate: true
+  xy: 607, 481
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+images/zuojiao
+  rotate: true
+  xy: 158, 209
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: false
+  xy: 756, 476
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+images/zuoxiaobi
+  rotate: false
+  xy: 690, 603
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+images/zuoxiaotui
+  rotate: false
+  xy: 158, 314
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1

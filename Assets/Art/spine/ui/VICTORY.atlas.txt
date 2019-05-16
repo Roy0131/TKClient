@@ -1,0 +1,111 @@
+
+VICTORY.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dai1
+  rotate: false
+  xy: 417, 300
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+images/hua
+  rotate: true
+  xy: 2, 23
+  size: 121, 186
+  orig: 121, 186
+  offset: 0, 0
+  index: -1
+images/laba
+  rotate: false
+  xy: 251, 108
+  size: 213, 66
+  orig: 213, 66
+  offset: 0, 0
+  index: -1
+images/laba2
+  rotate: false
+  xy: 2, 146
+  size: 247, 140
+  orig: 247, 140
+  offset: 0, 0
+  index: -1
+images/piaodai
+  rotate: false
+  xy: 2, 384
+  size: 466, 118
+  orig: 466, 118
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 251, 176
+  size: 182, 110
+  orig: 182, 110
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: true
+  xy: 248, 27
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+images/youdabi
+  rotate: true
+  xy: 435, 204
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+images/youshou
+  rotate: false
+  xy: 470, 456
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+images/youxiaobi
+  rotate: false
+  xy: 338, 27
+  size: 78, 79
+  orig: 78, 79
+  offset: 0, 0
+  index: -1
+images/zi
+  rotate: false
+  xy: 2, 288
+  size: 413, 94
+  orig: 413, 94
+  offset: 0, 0
+  index: -1
+images/zui
+  rotate: false
+  xy: 435, 186
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+images/zuodabi
+  rotate: true
+  xy: 190, 73
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: false
+  xy: 418, 70
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+images/zuoxiaobi
+  rotate: false
+  xy: 190, 2
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+mfjt.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX/TX_1/TX_1_1
+  rotate: false
+  xy: 342, 83
+  size: 119, 43
+  orig: 122, 54
+  offset: 2, 5
+  index: -1
+TX/TX_1/TX_1_2
+  rotate: false
+  xy: 219, 83
+  size: 121, 43
+  orig: 122, 54
+  offset: 1, 5
+  index: -1
+TX/TX_1/TX_1_3
+  rotate: false
+  xy: 219, 38
+  size: 120, 43
+  orig: 122, 54
+  offset: 1, 5
+  index: -1
+TX/TX_1/TX_1_4
+  rotate: false
+  xy: 463, 84
+  size: 116, 42
+  orig: 122, 54
+  offset: 4, 5
+  index: -1
+TX/TX_1/TX_1_5
+  rotate: false
+  xy: 820, 88
+  size: 116, 38
+  orig: 122, 54
+  offset: 4, 8
+  index: -1
+TX/TX_1/TX_1_6
+  rotate: false
+  xy: 581, 86
+  size: 118, 40
+  orig: 122, 54
+  offset: 3, 7
+  index: -1
+TX/TX_1/TX_1_7
+  rotate: false
+  xy: 701, 85
+  size: 117, 41
+  orig: 122, 54
+  offset: 3, 6
+  index: -1
+TX/TX_1/TX_1_8
+  rotate: false
+  xy: 341, 40
+  size: 119, 41
+  orig: 122, 54
+  offset: 2, 6
+  index: -1
+jitan
+  rotate: false
+  xy: 2, 18
+  size: 215, 108
+  orig: 215, 108
+  offset: 0, 0
+  index: -1
+shuijing
+  rotate: false
+  xy: 938, 60
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+shuiwen
+  rotate: true
+  xy: 2, 2
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1

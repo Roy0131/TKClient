@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+     <item ID="1" BackGroundMap="Map_Battle_2008" StageType="1" PlayerCardMax="5" PurifyPoint="1" />
+     <item ID="2" BackGroundMap="Map_Battle_2003" StageType="1" PlayerCardMax="5" PurifyPoint="1" />
+     <item ID="3" BackGroundMap="Map_Battle_2010" StageType="1" PlayerCardMax="5" PurifyPoint="1" />
+     <item ID="4" BackGroundMap="Map_Battle_2006" StageType="2" PlayerCardMax="5" PurifyPoint="3" />
+     <item ID="5" BackGroundMap="Map_Battle_2018" StageType="1" PlayerCardMax="5" PurifyPoint="1" />
+     <item ID="6" BackGroundMap="Map_Battle_2002" StageType="1" PlayerCardMax="5" PurifyPoint="1" />
+     <item ID="7" BackGroundMap="Map_Battle_2017" StageType="1" PlayerCardMax="5" PurifyPoint="1" />
+     <item ID="8" BackGroundMap="Map_Battle_2005" StageType="2" PlayerCardMax="5" PurifyPoint="3" />
+     <item ID="9" BackGroundMap="Map_Battle_2001" StageType="1" PlayerCardMax="5" PurifyPoint="1" />
+     <item ID="10" BackGroundMap="Map_Battle_2014" StageType="3" PlayerCardMax="5" PurifyPoint="7" />
+</Config>

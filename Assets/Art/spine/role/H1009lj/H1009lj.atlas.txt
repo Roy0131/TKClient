@@ -1,0 +1,146 @@
+
+H1009lj.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g1
+  rotate: false
+  xy: 2, 305
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/g2
+  rotate: false
+  xy: 109, 92
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/lk_0000_tou
+  rotate: false
+  xy: 2, 4
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+images/lk_0001_shou1
+  rotate: false
+  xy: 211, 174
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+images/lk_0002_qianbi1
+  rotate: false
+  xy: 233, 106
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+images/lk_0003_shangbi1
+  rotate: false
+  xy: 203, 105
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+images/lk_0004_qugan
+  rotate: true
+  xy: 109, 17
+  size: 73, 88
+  orig: 73, 88
+  offset: 0, 0
+  index: -1
+images/lk_0005_qianbi2
+  rotate: true
+  xy: 203, 74
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+images/lk_0006_shangbi2
+  rotate: false
+  xy: 199, 48
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+images/lk_0007_jiao2
+  rotate: false
+  xy: 109, 2
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+images/lk_0008_xiaotui2
+  rotate: false
+  xy: 231, 46
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+images/lk_0009_datui2
+  rotate: false
+  xy: 211, 238
+  size: 32, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+images/lk_0010_jiao1
+  rotate: false
+  xy: 143, 4
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+images/lk_0011_xiaotui1
+  rotate: false
+  xy: 203, 138
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+images/lk_0012_datui1
+  rotate: false
+  xy: 211, 199
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+images/lk_0013_toufa
+  rotate: true
+  xy: 211, 280
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+images/lk_0014_doupeng
+  rotate: true
+  xy: 108, 182
+  size: 121, 101
+  orig: 121, 101
+  offset: 0, 0
+  index: -1
+images/lk_0015_wuqi
+  rotate: false
+  xy: 2, 119
+  size: 104, 184
+  orig: 104, 184
+  offset: 0, 0
+  index: -1
+images/lk_0016_yingzi
+  rotate: true
+  xy: 204, 326
+  size: 179, 49
+  orig: 183, 54
+  offset: 2, 3
+  index: -1
+images/youshou
+  rotate: true
+  xy: 233, 82
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1

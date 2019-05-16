@@ -1,0 +1,139 @@
+
+shalou.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: false
+  xy: 79, 97
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+images/2
+  rotate: false
+  xy: 40, 12
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 2, 3
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+images/4
+  rotate: false
+  xy: 2, 43
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+images/TX/saoguang_00000
+  rotate: false
+  xy: 111, 98
+  size: 4, 5
+  orig: 34, 34
+  offset: 1, 21
+  index: -1
+images/TX/saoguang_00001
+  rotate: false
+  xy: 40, 2
+  size: 7, 8
+  orig: 34, 34
+  offset: 1, 18
+  index: -1
+images/TX/saoguang_00002
+  rotate: true
+  xy: 101, 83
+  size: 12, 11
+  orig: 34, 34
+  offset: 1, 17
+  index: -1
+images/TX/saoguang_00003
+  rotate: false
+  xy: 70, 9
+  size: 17, 14
+  orig: 34, 34
+  offset: 2, 16
+  index: -1
+images/TX/saoguang_00004
+  rotate: false
+  xy: 234, 90
+  size: 20, 16
+  orig: 34, 34
+  offset: 4, 16
+  index: -1
+images/TX/saoguang_00005
+  rotate: true
+  xy: 176, 104
+  size: 22, 28
+  orig: 34, 34
+  offset: 6, 6
+  index: -1
+images/TX/saoguang_00006
+  rotate: true
+  xy: 111, 105
+  size: 21, 30
+  orig: 34, 34
+  offset: 7, 4
+  index: -1
+images/TX/saoguang_00007
+  rotate: false
+  xy: 79, 62
+  size: 20, 33
+  orig: 34, 34
+  offset: 8, 1
+  index: -1
+images/TX/saoguang_00008
+  rotate: true
+  xy: 143, 106
+  size: 20, 31
+  orig: 34, 34
+  offset: 8, 1
+  index: -1
+images/TX/saoguang_00009
+  rotate: true
+  xy: 206, 106
+  size: 20, 26
+  orig: 34, 34
+  offset: 9, 0
+  index: -1
+images/TX/saoguang_00010
+  rotate: false
+  xy: 234, 108
+  size: 20, 18
+  orig: 34, 34
+  offset: 11, 0
+  index: -1
+images/TX/saoguang_00011
+  rotate: false
+  xy: 79, 43
+  size: 18, 17
+  orig: 34, 34
+  offset: 14, 0
+  index: -1
+images/TX/saoguang_00012
+  rotate: false
+  xy: 70, 25
+  size: 16, 16
+  orig: 34, 34
+  offset: 17, 0
+  index: -1
+images/TX/saoguang_00013
+  rotate: false
+  xy: 88, 28
+  size: 12, 13
+  orig: 34, 34
+  offset: 21, 1
+  index: -1
+images/TX/saoguang_00014
+  rotate: true
+  xy: 49, 3
+  size: 7, 9
+  orig: 34, 34
+  offset: 26, 2
+  index: -1

@@ -1,0 +1,69 @@
+
+shouwei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shenti
+  rotate: true
+  xy: 316, 43
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+images/shouwei
+  rotate: false
+  xy: 2, 26
+  size: 312, 224
+  orig: 312, 224
+  offset: 0, 0
+  index: -1
+images/shouwei02
+  rotate: false
+  xy: 420, 136
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+images/shouwei03
+  rotate: false
+  xy: 316, 28
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+images/shouwei04
+  rotate: false
+  xy: 359, 186
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+images/tou1
+  rotate: false
+  xy: 359, 128
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+images/tou2
+  rotate: false
+  xy: 439, 194
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+images/zuodabi
+  rotate: true
+  xy: 2, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+images/zuoxiaobi
+  rotate: false
+  xy: 316, 102
+  size: 41, 148
+  orig: 41, 148
+  offset: 0, 0
+  index: -1

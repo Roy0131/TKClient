@@ -1,0 +1,153 @@
+
+rk.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1_1
+  rotate: false
+  xy: 53, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_10
+  rotate: false
+  xy: 461, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_11
+  rotate: false
+  xy: 512, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_12
+  rotate: false
+  xy: 563, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_13
+  rotate: false
+  xy: 614, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_14
+  rotate: false
+  xy: 665, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_15
+  rotate: false
+  xy: 716, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_2
+  rotate: false
+  xy: 104, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_3
+  rotate: false
+  xy: 155, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_4
+  rotate: false
+  xy: 206, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_5
+  rotate: false
+  xy: 257, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_6
+  rotate: false
+  xy: 308, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_7
+  rotate: false
+  xy: 359, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_8
+  rotate: false
+  xy: 410, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/TX/TX_1_9
+  rotate: false
+  xy: 2, 25
+  size: 49, 218
+  orig: 49, 218
+  offset: 0, 0
+  index: -1
+images/biao1
+  rotate: false
+  xy: 767, 54
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+images/biao2
+  rotate: true
+  xy: 902, 133
+  size: 15, 47
+  orig: 15, 47
+  offset: 0, 0
+  index: -1
+images/jian
+  rotate: true
+  xy: 2, 2
+  size: 21, 80
+  orig: 21, 80
+  offset: 0, 0
+  index: -1
+images/jiantou
+  rotate: false
+  xy: 902, 150
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+images/youmen
+  rotate: false
+  xy: 767, 102
+  size: 67, 141
+  orig: 67, 141
+  offset: 0, 0
+  index: -1
+images/zuomen
+  rotate: false
+  xy: 836, 105
+  size: 64, 138
+  orig: 64, 138
+  offset: 0, 0
+  index: -1

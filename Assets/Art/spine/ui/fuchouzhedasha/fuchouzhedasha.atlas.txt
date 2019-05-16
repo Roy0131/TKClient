@@ -1,0 +1,48 @@
+
+fuchouzhedasha.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/d1
+  rotate: false
+  xy: 2, 20
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+images/d2
+  rotate: false
+  xy: 152, 123
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+images/dao1
+  rotate: false
+  xy: 2, 180
+  size: 500, 327
+  orig: 500, 327
+  offset: 0, 0
+  index: -1
+images/dao2
+  rotate: false
+  xy: 2, 116
+  size: 148, 62
+  orig: 148, 62
+  offset: 0, 0
+  index: -1
+images/leida
+  rotate: false
+  xy: 97, 85
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+images/xinhao
+  rotate: false
+  xy: 2, 2
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1

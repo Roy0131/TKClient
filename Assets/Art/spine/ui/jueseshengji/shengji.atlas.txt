@@ -1,0 +1,139 @@
+
+shengji.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1/TX_1_1
+  rotate: false
+  xy: 880, 333
+  size: 140, 139
+  orig: 140, 139
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_10
+  rotate: false
+  xy: 2, 338
+  size: 200, 166
+  orig: 200, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_11
+  rotate: false
+  xy: 2, 170
+  size: 200, 166
+  orig: 200, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_13
+  rotate: false
+  xy: 2, 2
+  size: 200, 166
+  orig: 200, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_15
+  rotate: false
+  xy: 537, 790
+  size: 200, 166
+  orig: 200, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_17
+  rotate: false
+  xy: 739, 790
+  size: 200, 166
+  orig: 200, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_2
+  rotate: true
+  xy: 880, 474
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_3
+  rotate: true
+  xy: 204, 23
+  size: 181, 166
+  orig: 181, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_4
+  rotate: false
+  xy: 693, 454
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_5
+  rotate: true
+  xy: 204, 206
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_6
+  rotate: false
+  xy: 697, 622
+  size: 189, 166
+  orig: 189, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_7
+  rotate: false
+  xy: 503, 454
+  size: 188, 166
+  orig: 188, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_8
+  rotate: false
+  xy: 503, 622
+  size: 192, 166
+  orig: 192, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_1/TX_1_9
+  rotate: true
+  xy: 341, 496
+  size: 196, 160
+  orig: 196, 160
+  offset: 0, 0
+  index: -1
+images/dai1
+  rotate: false
+  xy: 2, 810
+  size: 533, 146
+  orig: 533, 146
+  offset: 0, 0
+  index: -1
+images/dai2
+  rotate: false
+  xy: 941, 832
+  size: 70, 124
+  orig: 70, 124
+  offset: 0, 0
+  index: -1
+images/dai3
+  rotate: false
+  xy: 204, 393
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+images/huangguan
+  rotate: false
+  xy: 2, 506
+  size: 337, 186
+  orig: 337, 186
+  offset: 0, 0
+  index: -1
+images/zimu
+  rotate: false
+  xy: 2, 694
+  size: 489, 114
+  orig: 489, 114
+  offset: 0, 0
+  index: -1

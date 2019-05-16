@@ -1,0 +1,8 @@
+<linker>
+  <assembly fullname="InitDef" preserve="all"/>
+  <assembly fullname="GameLogic" preserve="all"/>
+  <assembly fullname="GameLibs" preserve="all"/>
+  <assembly fullname="UnityEngine" preserve="all"/>
+  <assembly fullname="System" preserve="all"/>
+  <assembly fullname="Assembly-CSharp" preserve="all"/>
+</linker>

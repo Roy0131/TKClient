@@ -1,0 +1,13 @@
+
+Jianianhua.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/button_jianianhua_01
+  rotate: false
+  xy: 2, 2
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1

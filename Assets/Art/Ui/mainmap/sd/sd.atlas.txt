@@ -1,0 +1,118 @@
+
+sd.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/d1
+  rotate: false
+  xy: 355, 122
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+images/d2
+  rotate: false
+  xy: 244, 61
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+images/deng
+  rotate: true
+  xy: 277, 104
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+images/fangyan
+  rotate: false
+  xy: 324, 110
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: false
+  xy: 2, 25
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+images/guang2
+  rotate: false
+  xy: 178, 35
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/jishen
+  rotate: false
+  xy: 466, 228
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+images/jitou
+  rotate: false
+  xy: 244, 73
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+images/jiyan
+  rotate: false
+  xy: 47, 17
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+images/jizui
+  rotate: false
+  xy: 93, 32
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+images/jizui2
+  rotate: false
+  xy: 466, 214
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+images/pingguo1
+  rotate: false
+  xy: 2, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+images/pingguoer
+  rotate: false
+  xy: 25, 4
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+images/shangdian
+  rotate: false
+  xy: 2, 101
+  size: 273, 153
+  orig: 273, 153
+  offset: 0, 0
+  index: -1
+images/wuding
+  rotate: false
+  xy: 277, 132
+  size: 187, 122
+  orig: 187, 122
+  offset: 0, 0
+  index: -1
+images/wuding2
+  rotate: false
+  xy: 93, 45
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1

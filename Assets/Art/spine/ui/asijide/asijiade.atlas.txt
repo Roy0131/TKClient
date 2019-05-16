@@ -1,0 +1,55 @@
+
+asijiade.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/d1
+  rotate: false
+  xy: 2, 2
+  size: 96, 157
+  orig: 96, 157
+  offset: 0, 0
+  index: -1
+images/d4
+  rotate: false
+  xy: 199, 113
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+images/dao
+  rotate: false
+  xy: 2, 161
+  size: 468, 346
+  orig: 468, 346
+  offset: 0, 0
+  index: -1
+images/dao2
+  rotate: false
+  xy: 100, 89
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+images/dao3
+  rotate: true
+  xy: 199, 51
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+images/guang
+  rotate: true
+  xy: 100, 38
+  size: 49, 97
+  orig: 49, 97
+  offset: 0, 0
+  index: -1
+images/shuiwen
+  rotate: false
+  xy: 472, 485
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1

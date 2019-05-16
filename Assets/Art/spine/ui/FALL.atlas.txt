@@ -1,0 +1,146 @@
+
+FALL.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dai1
+  rotate: true
+  xy: 234, 3
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+images/huangguan
+  rotate: false
+  xy: 395, 127
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+images/laba1
+  rotate: true
+  xy: 2, 193
+  size: 201, 134
+  orig: 201, 134
+  offset: 0, 0
+  index: -1
+images/laba2
+  rotate: false
+  xy: 377, 260
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+images/piaodai
+  rotate: false
+  xy: 2, 396
+  size: 469, 114
+  orig: 469, 114
+  offset: 0, 0
+  index: -1
+images/qi1
+  rotate: true
+  xy: 2, 19
+  size: 78, 140
+  orig: 78, 140
+  offset: 0, 0
+  index: -1
+images/qi2
+  rotate: true
+  xy: 314, 10
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+images/qi3
+  rotate: true
+  xy: 254, 99
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+images/qi4
+  rotate: true
+  xy: 246, 259
+  size: 135, 129
+  orig: 135, 129
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: true
+  xy: 138, 199
+  size: 195, 106
+  orig: 195, 106
+  offset: 0, 0
+  index: -1
+images/shouzhi1
+  rotate: true
+  xy: 473, 486
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+images/shouzhi2
+  rotate: true
+  xy: 473, 450
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+images/shouzhi3
+  rotate: true
+  xy: 473, 468
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+images/shouzhi4
+  rotate: false
+  xy: 498, 467
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: true
+  xy: 144, 2
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+images/youdabi
+  rotate: false
+  xy: 327, 104
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+images/youshou
+  rotate: false
+  xy: 246, 201
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+images/zi
+  rotate: false
+  xy: 2, 99
+  size: 250, 92
+  orig: 250, 92
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: true
+  xy: 324, 207
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+images/zuoxiaobi
+  rotate: false
+  xy: 400, 209
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1

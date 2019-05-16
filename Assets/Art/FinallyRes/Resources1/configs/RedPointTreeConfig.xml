@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<parent id = "1" hasChild = "1" >
+		<item id = "101" hasChild = "0" />
+		<item id = "102" hasChild = "0" />
+	</parent>
+	<parent id = "2" hasChild = "1" >
+		<item id = "201" hasChild = "0" />
+		<item id = "202" hasChild = "0" />
+	</parent>
+	<parent id = "3" hasChild = "0" />
+	<parent id = "4" hasChild = "1" >
+		<item id = "401" hasChild = "0" />
+		<item id = "402" hasChild = "0" />
+	</parent>
+	<parent id = "5" hasChild = "0" />
+	<parent id = "6" hasChild = "1" >
+		<item id = "601" hasChild = "0" />
+		<item id = "602" hasChild = "0" />
+		<item id = "603" hasChild = "0" />
+	</parent>
+	<parent id = "7" hasChild = "0" />
+	<parent id = "8" hasChild = "1" >
+		<item id = "801" hasChild = "0" />
+		<item id = "802" hasChild = "0" />
+	</parent>
+	<parent id = "9" hasChild = "0" />
+	<!-- 公会: 主场景功能建筑、公会签到。只需要一个节点，两个红点对象即可 -->
+	<parent id = "10" hasChild = "0" />
+  <parent id = "11" hasChild = "0" />
+	<!-- 装备合成:主场景功能建筑、合成界面四个页签 -->
+	<parent id = "30" hasChild = "1" >
+		<item id = "3001" hasChild = "0" />
+		<item id = "3002" hasChild = "0" />
+		<item id = "3003" hasChild = "0" />
+		<item id = "3004" hasChild = "0" />
+	</parent>
+  <!-- 角色合成 -->
+  <parent id ="31" hasChild = "0" />
+  <!-- 背包碎片 -->
+  <parent id = "40" hasChild = "0" />
+</root>

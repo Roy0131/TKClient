@@ -1,0 +1,258 @@
+
+H1032hszg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1/TX_1_1
+  rotate: true
+  xy: 555, 386
+  size: 124, 160
+  orig: 150, 160
+  offset: 24, 0
+  index: -1
+images/TX/TX_1/TX_1_2
+  rotate: true
+  xy: 717, 369
+  size: 141, 152
+  orig: 150, 160
+  offset: 7, 0
+  index: -1
+images/TX/TX_1/TX_1_3
+  rotate: false
+  xy: 871, 376
+  size: 142, 134
+  orig: 150, 160
+  offset: 8, 0
+  index: -1
+images/TX/TX_1/TX_1_4
+  rotate: true
+  xy: 164, 81
+  size: 142, 89
+  orig: 150, 160
+  offset: 4, 0
+  index: -1
+images/TX/TX_1/TX_1_5
+  rotate: false
+  xy: 376, 338
+  size: 135, 44
+  orig: 150, 160
+  offset: 0, 3
+  index: -1
+images/TX/TX_2/TX_2_1
+  rotate: false
+  xy: 376, 384
+  size: 177, 126
+  orig: 200, 146
+  offset: 1, 8
+  index: -1
+images/TX/TX_2/TX_2_2
+  rotate: false
+  xy: 197, 375
+  size: 177, 135
+  orig: 200, 146
+  offset: 3, 2
+  index: -1
+images/TX/TX_2/TX_2_3
+  rotate: false
+  xy: 2, 368
+  size: 193, 142
+  orig: 200, 146
+  offset: 2, 2
+  index: -1
+images/TX/TX_2/TX_2_4
+  rotate: false
+  xy: 2, 225
+  size: 192, 141
+  orig: 200, 146
+  offset: 8, 3
+  index: -1
+images/TX/TX_2/TX_2_5
+  rotate: false
+  xy: 555, 272
+  size: 160, 112
+  orig: 200, 146
+  offset: 38, 9
+  index: -1
+images/TX/TX_3/TX_3_1
+  rotate: false
+  xy: 197, 292
+  size: 98, 81
+  orig: 110, 100
+  offset: 7, 6
+  index: -1
+images/TX/TX_3/TX_3_2
+  rotate: false
+  xy: 207, 2
+  size: 91, 77
+  orig: 110, 100
+  offset: 10, 8
+  index: -1
+images/TX/TX_3/TX_3_3
+  rotate: true
+  xy: 297, 292
+  size: 81, 76
+  orig: 110, 100
+  offset: 17, 7
+  index: -1
+images/TX/TX_3/TX_3_4
+  rotate: false
+  xy: 255, 164
+  size: 66, 66
+  orig: 110, 100
+  offset: 24, 13
+  index: -1
+images/TX/TX_3/TX_3_5
+  rotate: false
+  xy: 253, 232
+  size: 58, 58
+  orig: 110, 100
+  offset: 25, 19
+  index: -1
+images/jian
+  rotate: true
+  xy: 547, 244
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: true
+  xy: 375, 249
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 470, 246
+  size: 75, 90
+  orig: 75, 90
+  offset: 0, 0
+  index: -1
+images/weapon1
+  rotate: false
+  xy: 2, 78
+  size: 160, 145
+  orig: 160, 145
+  offset: 0, 0
+  index: -1
+images/weapon2
+  rotate: true
+  xy: 313, 238
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+images/yao
+  rotate: false
+  xy: 196, 225
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+images/yinying
+  rotate: false
+  xy: 2, 25
+  size: 203, 51
+  orig: 207, 54
+  offset: 1, 1
+  index: -1
+images/youdabi
+  rotate: false
+  xy: 848, 239
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+images/youdatui
+  rotate: false
+  xy: 872, 249
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+images/youjian
+  rotate: false
+  xy: 986, 317
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+images/youjiao
+  rotate: true
+  xy: 986, 265
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+images/youshou
+  rotate: false
+  xy: 778, 233
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+images/youxiaobi
+  rotate: false
+  xy: 323, 168
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+images/youxiaotui
+  rotate: true
+  xy: 635, 222
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+images/zuodabi
+  rotate: false
+  xy: 814, 236
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+images/zuodatui
+  rotate: true
+  xy: 513, 340
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+images/zuojian
+  rotate: true
+  xy: 871, 276
+  size: 98, 113
+  orig: 105, 113
+  offset: 7, 0
+  index: -1
+images/zuojiao
+  rotate: true
+  xy: 692, 222
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+images/zuoshou
+  rotate: false
+  xy: 727, 233
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+images/zuoxiaobi
+  rotate: true
+  xy: 717, 276
+  size: 91, 146
+  orig: 91, 146
+  offset: 0, 0
+  index: -1
+images/zuoxiaotui
+  rotate: false
+  xy: 255, 100
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1

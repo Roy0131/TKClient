@@ -1,0 +1,258 @@
+
+tjp.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1/TX_1_1
+  rotate: false
+  xy: 512, 121
+  size: 25, 31
+  orig: 50, 66
+  offset: 21, 35
+  index: -1
+images/TX/TX_1/TX_1_2
+  rotate: false
+  xy: 340, 98
+  size: 32, 54
+  orig: 50, 66
+  offset: 15, 12
+  index: -1
+images/TX/TX_1/TX_1_3
+  rotate: false
+  xy: 710, 375
+  size: 42, 65
+  orig: 50, 66
+  offset: 8, 1
+  index: -1
+images/TX/TX_1/TX_1_4
+  rotate: false
+  xy: 604, 195
+  size: 45, 65
+  orig: 50, 66
+  offset: 5, 1
+  index: -1
+images/TX/TX_1/TX_1_5
+  rotate: false
+  xy: 247, 87
+  size: 46, 65
+  orig: 50, 66
+  offset: 4, 1
+  index: -1
+images/TX/TX_1/TX_1_6
+  rotate: false
+  xy: 748, 442
+  size: 49, 60
+  orig: 50, 66
+  offset: 1, 1
+  index: -1
+images/TX/TX_1/TX_1_7
+  rotate: false
+  xy: 374, 105
+  size: 34, 47
+  orig: 50, 66
+  offset: 0, 1
+  index: -1
+images/TX/TX_1/TX_1_8
+  rotate: false
+  xy: 564, 125
+  size: 21, 27
+  orig: 50, 66
+  offset: 0, 1
+  index: -1
+images/TX/TX_2/TX_2_1
+  rotate: false
+  xy: 587, 125
+  size: 15, 27
+  orig: 60, 89
+  offset: 44, 61
+  index: -1
+images/TX/TX_2/TX_2_10
+  rotate: false
+  xy: 911, 456
+  size: 26, 46
+  orig: 60, 89
+  offset: 0, 6
+  index: -1
+images/TX/TX_2/TX_2_11
+  rotate: false
+  xy: 968, 456
+  size: 20, 46
+  orig: 60, 89
+  offset: 0, 1
+  index: -1
+images/TX/TX_2/TX_2_12
+  rotate: false
+  xy: 990, 459
+  size: 13, 43
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+images/TX/TX_2/TX_2_13
+  rotate: false
+  xy: 1005, 470
+  size: 11, 32
+  orig: 60, 89
+  offset: 0, 0
+  index: -1
+images/TX/TX_2/TX_2_2
+  rotate: false
+  xy: 539, 121
+  size: 23, 31
+  orig: 60, 89
+  offset: 36, 56
+  index: -1
+images/TX/TX_2/TX_2_3
+  rotate: false
+  xy: 93, 24
+  size: 30, 34
+  orig: 60, 89
+  offset: 28, 53
+  index: -1
+images/TX/TX_2/TX_2_4
+  rotate: false
+  xy: 476, 118
+  size: 34, 34
+  orig: 60, 89
+  offset: 22, 49
+  index: -1
+images/TX/TX_2/TX_2_5
+  rotate: false
+  xy: 604, 155
+  size: 36, 38
+  orig: 60, 89
+  offset: 18, 41
+  index: -1
+images/TX/TX_2/TX_2_6
+  rotate: false
+  xy: 410, 109
+  size: 32, 43
+  orig: 60, 89
+  offset: 16, 35
+  index: -1
+images/TX/TX_2/TX_2_7
+  rotate: false
+  xy: 880, 456
+  size: 29, 46
+  orig: 60, 89
+  offset: 11, 30
+  index: -1
+images/TX/TX_2/TX_2_8
+  rotate: false
+  xy: 848, 456
+  size: 30, 46
+  orig: 60, 89
+  offset: 5, 26
+  index: -1
+images/TX/TX_2/TX_2_9
+  rotate: false
+  xy: 444, 110
+  size: 30, 42
+  orig: 60, 89
+  offset: 1, 20
+  index: -1
+images/TX/TX_3/TX_3_1
+  rotate: false
+  xy: 754, 382
+  size: 34, 58
+  orig: 60, 89
+  offset: 25, 22
+  index: -1
+images/TX/TX_3/TX_3_2
+  rotate: false
+  xy: 664, 365
+  size: 44, 75
+  orig: 60, 89
+  offset: 15, 7
+  index: -1
+images/TX/TX_3/TX_3_3
+  rotate: false
+  xy: 188, 64
+  size: 57, 88
+  orig: 60, 89
+  offset: 3, 0
+  index: -1
+images/TX/TX_3/TX_3_4
+  rotate: false
+  xy: 128, 64
+  size: 58, 88
+  orig: 60, 89
+  offset: 1, 0
+  index: -1
+images/TX/TX_3/TX_3_5
+  rotate: false
+  xy: 604, 352
+  size: 58, 88
+  orig: 60, 89
+  offset: 1, 0
+  index: -1
+images/TX/TX_3/TX_3_6
+  rotate: false
+  xy: 604, 262
+  size: 57, 88
+  orig: 60, 89
+  offset: 1, 0
+  index: -1
+images/TX/TX_3/TX_3_7
+  rotate: false
+  xy: 939, 458
+  size: 27, 44
+  orig: 60, 89
+  offset: 0, 42
+  index: -1
+images/TX/TX_3/TX_3_8
+  rotate: false
+  xy: 247, 72
+  size: 8, 13
+  orig: 60, 89
+  offset: 2, 56
+  index: -1
+images/ba
+  rotate: false
+  xy: 2, 60
+  size: 124, 92
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+images/feiji1
+  rotate: false
+  xy: 604, 442
+  size: 142, 60
+  orig: 142, 60
+  offset: 0, 0
+  index: -1
+images/feiji2
+  rotate: false
+  xy: 2, 24
+  size: 89, 34
+  orig: 89, 34
+  offset: 0, 0
+  index: -1
+images/feiji3
+  rotate: false
+  xy: 2, 2
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+images/jianbing
+  rotate: false
+  xy: 295, 94
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+images/quan
+  rotate: false
+  xy: 799, 456
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+images/tingjiping
+  rotate: false
+  xy: 2, 154
+  size: 600, 348
+  orig: 600, 348
+  offset: 0, 0
+  index: -1

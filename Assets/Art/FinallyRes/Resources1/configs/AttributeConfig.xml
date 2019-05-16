@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+     <item ID="1" NameID="200001" PercentShow="0" Divisor="1" UIBaseValue="0" />
+     <item ID="2" NameID="200002" PercentShow="0" Divisor="1" UIBaseValue="0" />
+     <item ID="3" NameID="200003" PercentShow="0" Divisor="1" UIBaseValue="0" />
+     <item ID="4" NameID="200004" PercentShow="0" Divisor="1" UIBaseValue="0" />
+     <item ID="5" NameID="200005" PercentShow="0" Divisor="1" UIBaseValue="0" />
+     <item ID="6" NameID="200006" PercentShow="0" Divisor="1" UIBaseValue="0" />
+     <item ID="7" NameID="200007" PercentShow="0" Divisor="1" UIBaseValue="0" />
+     <item ID="8" NameID="200008" PercentShow="0" Divisor="1" UIBaseValue="0" />
+     <item ID="9" NameID="200009" PercentShow="1" Divisor="100" UIBaseValue="800" />
+     <item ID="10" NameID="200010" PercentShow="1" Divisor="100" UIBaseValue="20000" />
+     <item ID="11" NameID="200011" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="12" NameID="200012" PercentShow="1" Divisor="100" UIBaseValue="500" />
+     <item ID="13" NameID="200013" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="14" NameID="200014" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="15" NameID="200015" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="16" NameID="200016" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="17" NameID="200017" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="18" NameID="200018" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="19" NameID="200019" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="20" NameID="200020" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="21" NameID="200021" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="22" NameID="200022" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="23" NameID="200023" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="24" NameID="200024" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="25" NameID="200025" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="26" NameID="200026" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="27" NameID="200027" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="28" NameID="200028" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="29" NameID="200029" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="30" NameID="200030" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="31" NameID="200031" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="32" NameID="200032" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="33" NameID="200033" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="34" NameID="200034" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="35" NameID="200035" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="36" NameID="200036" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="37" NameID="200037" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="38" NameID="200038" PercentShow="1" Divisor="100" UIBaseValue="0" />
+     <item ID="39" NameID="200039" PercentShow="1" Divisor="100" UIBaseValue="0" />
+</Config>

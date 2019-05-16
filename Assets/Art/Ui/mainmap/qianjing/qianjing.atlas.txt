@@ -1,0 +1,41 @@
+
+qianjing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/s1
+  rotate: false
+  xy: 428, 60
+  size: 150, 132
+  orig: 150, 134
+  offset: 0, 1
+  index: -1
+images/s2
+  rotate: false
+  xy: 682, 96
+  size: 99, 96
+  orig: 100, 97
+  offset: 1, 0
+  index: -1
+images/s3
+  rotate: false
+  xy: 580, 95
+  size: 100, 97
+  orig: 100, 99
+  offset: 0, 1
+  index: -1
+images/shucong1
+  rotate: false
+  xy: 428, 194
+  size: 499, 56
+  orig: 500, 57
+  offset: 0, 0
+  index: -1
+images/shucong2
+  rotate: false
+  xy: 2, 2
+  size: 424, 248
+  orig: 424, 249
+  offset: 0, 0
+  index: -1

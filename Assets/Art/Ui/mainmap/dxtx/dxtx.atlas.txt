@@ -1,0 +1,153 @@
+
+dxtx.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TX/TX_1/TX_1_1
+  rotate: false
+  xy: 2, 145
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+images/TX/TX_2/TX_2_1
+  rotate: false
+  xy: 220, 341
+  size: 150, 165
+  orig: 150, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_2/TX_2_10
+  rotate: true
+  xy: 689, 360
+  size: 146, 165
+  orig: 150, 166
+  offset: 2, 0
+  index: -1
+images/TX/TX_2/TX_2_11
+  rotate: true
+  xy: 522, 359
+  size: 147, 165
+  orig: 150, 166
+  offset: 1, 0
+  index: -1
+images/TX/TX_2/TX_2_12
+  rotate: false
+  xy: 311, 9
+  size: 148, 164
+  orig: 150, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_2/TX_2_2
+  rotate: false
+  xy: 372, 342
+  size: 148, 164
+  orig: 150, 166
+  offset: 0, 0
+  index: -1
+images/TX/TX_2/TX_2_3
+  rotate: false
+  xy: 311, 175
+  size: 140, 164
+  orig: 150, 166
+  offset: 0, 2
+  index: -1
+images/TX/TX_2/TX_2_4
+  rotate: false
+  xy: 453, 176
+  size: 141, 164
+  orig: 150, 166
+  offset: 0, 2
+  index: -1
+images/TX/TX_2/TX_2_5
+  rotate: false
+  xy: 596, 193
+  size: 141, 164
+  orig: 150, 166
+  offset: 0, 2
+  index: -1
+images/TX/TX_2/TX_2_6
+  rotate: true
+  xy: 2, 2
+  size: 141, 166
+  orig: 150, 166
+  offset: 1, 0
+  index: -1
+images/TX/TX_2/TX_2_7
+  rotate: true
+  xy: 856, 219
+  size: 142, 166
+  orig: 150, 166
+  offset: 1, 0
+  index: -1
+images/TX/TX_2/TX_2_8
+  rotate: false
+  xy: 172, 147
+  size: 137, 166
+  orig: 150, 166
+  offset: 2, 0
+  index: -1
+images/TX/TX_2/TX_2_9
+  rotate: true
+  xy: 856, 363
+  size: 143, 166
+  orig: 150, 166
+  offset: 2, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 461, 24
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/men
+  rotate: false
+  xy: 2, 315
+  size: 216, 191
+  orig: 216, 191
+  offset: 0, 0
+  index: -1
+images/men2
+  rotate: true
+  xy: 810, 100
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+images/qiu
+  rotate: false
+  xy: 613, 9
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/teng1
+  rotate: false
+  xy: 613, 75
+  size: 93, 116
+  orig: 93, 116
+  offset: 0, 0
+  index: -1
+images/teng2
+  rotate: true
+  xy: 708, 57
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+images/teng3
+  rotate: true
+  xy: 739, 242
+  size: 116, 103
+  orig: 116, 103
+  offset: 0, 0
+  index: -1
+images/teng4
+  rotate: true
+  xy: 739, 157
+  size: 83, 103
+  orig: 83, 103
+  offset: 0, 0
+  index: -1

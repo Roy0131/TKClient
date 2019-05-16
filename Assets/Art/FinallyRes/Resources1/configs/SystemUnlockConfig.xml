@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+     <item ServerID="SearchTaskEnterLevel" Level="6" LinkID="3" ClientGuildShowIcon="systemicon/xzjzgn_04" NameID="5002210" />
+     <item ServerID="ArenaEnterLevel" Level="14" LinkID="1" ClientGuildShowIcon="systemicon/xzjzgn_01" NameID="5001701" />
+     <item ServerID="TowerEnterLevel" Level="18" LinkID="10" ClientGuildShowIcon="systemicon/xzjzgn_03" NameID="5001901" />
+     <item ServerID="GuildEnterLevel" Level="22" LinkID="15" ClientGuildShowIcon="systemicon/xzjzgn_07" NameID="5003101" />
+     <item ServerID="LifeTreeEnterLevel" Level="24" LinkID="0" ClientGuildShowIcon="" NameID="" />
+     <item ServerID="FriendBossEnterLevel" Level="34" LinkID="" ClientGuildShowIcon="" NameID="0" />
+     <item ServerID="ExpeditionEnterLevel" Level="40" LinkID="0" ClientGuildShowIcon="" NameID="0" />
+     <item ServerID="ArtifactEnterLevel" Level="60" LinkID="0" ClientGuildShowIcon="" NameID="0" />
+</Config>
