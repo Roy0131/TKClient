@@ -158,10 +158,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f79ed13c7b86604f9c9423380d1e012, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mShowDebug: 0
-  mShowGuide: 1
+  mShowDebug: 1
+  mShowGuide: 0
   mRunInIOS: 0
-  UseAssetBundle: 1
+  UseAssetBundle: 0
   m_serverName: 0
   mInitObject: {fileID: 0}
   mLoginObject: {fileID: 0}
